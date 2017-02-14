@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>BootStrap for beginners </title>
+	
+	<!--Latest Compiled and Minified CSS -->
+	<link rel="stylesheet" href="file:///home/local/ZOHOCORP/abhishek-2863/Applications/bootstrap/css/bootstrap.min.css"
+	
+	<!-- optional theme -->
+	<link rel="stylesheet" href="file:///home/local/ZOHOCORP/abhishek-2863/Applications/bootstrap/css/bootstrap-theme.min.css">
+	<style>
+	.outer_gray{
+		background-color : #000;
+		padding : 20px;
+	}
+	</style>
+</head>
+<body>
+	
+	<header>
+		<div class="jumbotron">
+			<div class="container">
+				<h1>Hello World</h1>
+				<h3>Rows in Grid System </h3>	
+			</div>
+		</div>	
+	</header>
+	
+	<!-- <div class="outer_gray"> -->
+		<div class="container">
+			<div class="row"><div class="well"><h3>this is the first row</h3></div></div>
+			<div class="row"><div class="well"><h3>this is the second row</h3></div></div>
+			<div class="row"><div class="well"><h3>this is the third row</h3></div></div>
+		</div>	
+	
+	<footer>
+		<div class="container">
+			<hr>
+			<p> <small><a href="http://facebook.com/chillarParty">like me </a> on Facebook </small>
+			<p> <small><a href="http://twitter.com/chillarParty">ask me </a> on Twitter </small>
+			<p> <small><a href="http://youtube.com/chillarParty">subscribe me </a> on youtube </small>
+		</div>	
+	</footer> 
+	
+	<script src="file:///home/local/ZOHOCORP/abhishek-2863/Applications/bootstrap/js/jquery-1.8.2.min.js" />
+	<script src="file:///home/local/ZOHOCORP/abhishek-2863/Applications/bootstrap/js/bootstrap.min.js" />
+</body>
+</html>

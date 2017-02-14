@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>BootStrap for beginners </title>
+	
+	<!--Latest Compiled and Minified CSS -->
+	<link rel="stylesheet" href="file:///home/local/ZOHOCORP/abhishek-2863/Applications/bootstrap/css/bootstrap.min.css"
+	
+	<!-- optional theme -->
+	<link rel="stylesheet" href="file:///home/local/ZOHOCORP/abhishek-2863/Applications/bootstrap/css/bootstrap-theme.min.css">
+	
+</head>
+<body>
+	
+	<header>
+		<div class="jumbotron">
+			<div class="container">
+				<h1>Hello World</h1>
+				<h3>Buttons in Bootstrap </h3>	
+			</div>
+		</div>	
+	</header>
+	
+	 		<div class="container">
+	 			<div class="row">
+					<div class="well">
+						<a href=" " class="btn " >Button</a>	
+						<a href=" " class="btn btn-primary" >Button</a>	
+						<a href=" " class="btn btn-info" >Button</a>	
+						<a href=" " class="btn btn-success" >Button</a>
+						<a href=" " class="btn btn-warning" >Button</a>	
+						<a href=" " class="btn btn-danger" >Button</a>	
+						<a href=" " class="btn btn-link" >Button</a>	
+						<a href=" " class="btn btn-default" >Button</a>	
+						
+						<hr>
+						
+						<a href=" " class="btn btn-success btn-lg" >Button-large</a>
+						<a href=" " class="btn btn-success btn-md" >Button-medium</a>
+						<a href=" " class="btn btn-success btn-sm" >Button-small</a>
+						<a href=" " class="btn btn-success btn-xs" >Button-extra-small</a>
+						
+						<hr>
+						
+						<a href=" " class="btn btn-success btn-block" >Button-block</a>
+					</div>
+				</div>	
+			</div>
+	<footer>
+		<div class="container">
+			<hr>
+			<p> <small><a href="http://facebook.com/chillarParty">like me </a> on Facebook </small>
+			<p> <small><a href="http://twitter.com/chillarParty">ask me </a> on Twitter </small>
+			<p> <small><a href="http://youtube.com/chillarParty">subscribe me </a> on youtube </small>
+		</div>	
+	</footer> 
+	
+	<script src="file:///home/local/ZOHOCORP/abhishek-2863/Applications/bootstrap/js/jquery-1.8.2.min.js" />
+	<script src="file:///home/local/ZOHOCORP/abhishek-2863/Applications/bootstrap/js/bootstrap.min.js" />
+</body>
+</html>
